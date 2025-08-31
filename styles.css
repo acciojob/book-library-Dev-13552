@@ -12,18 +12,18 @@ h1{
 	background-color: :#ebf2ed;
 	text-align: center;
 }
-.book{
-	background-color:#ebf2ed;
-}
-.book h2{
+.author{
 	color: #777777;	
+}
+.book {
+	
 }
 img{
 	margin-left: 30%;
 	margin-top: 10px;
 }
 button{
-	background-color: #2ecc71;
+	background-color: rgb(46, 204, 113);
 	width: 100%;
 }
 
